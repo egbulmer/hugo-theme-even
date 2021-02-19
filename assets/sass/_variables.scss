@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
 // ========== Theme Color ========== //
 // Config here to change theme color
@@ -98,10 +99,10 @@ $header-padding: 20px 20px !default;
 }
 
 // Font size of the logo.
-$logo-font-size: 48px !default;
+$logo-font-size: 58px !default;
 
 // Font family of the logo.
-$logo-font-family: 'Chancery', cursive, LiSu, sans-serif !default;
+$logo-font-family: 'Sacramento', cursive, LiSu, sans-serif !default;
 
 // Margin of menu item.
 $menu-item-margin-left: 10px !default;
@@ -126,7 +127,7 @@ $post-padding: 1.5em 0 !default;
 $post-border: 1px solid $light-gray !default;
 
 // Font size of post title.
-$post-title-font-size: 30px !default;
+$post-title-font-size: 28px !default;
 
 // Font weight of post title.
 $post-title-font-weight: 400 !default;
